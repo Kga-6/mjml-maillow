@@ -1,5 +1,5 @@
 {
-  "name": "mjml",
+  "name": "@kgalexander/mjml",
   "description": "MJML: the only framework that makes responsive-email easy",
   "version": "4.18.0",
   "main": "lib/index.js",

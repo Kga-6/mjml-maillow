@@ -7408,6 +7408,18 @@ mixin-deep@^1.2.0:
     for-in "^1.0.2"
     is-extendable "^1.0.1"
 
+mjml@4.18.0:
+  version "4.18.0"
+  resolved "https://registry.yarnpkg.com/mjml/-/mjml-4.18.0.tgz#9e4b37d26c1ad689ca26f889048b884e47e26fff"
+  integrity sha512-rQM4aqFRrNvV1k733e8hJSopBjZvoSdBpRYzNTMAN+As0jqJsO5eN0wTT2IFtfe4PREzzu5b06RkPiUQdd0IIg==
+  dependencies:
+    "@babel/runtime" "^7.28.4"
+    mjml-cli "4.18.0"
+    mjml-core "4.18.0"
+    mjml-migrate "4.18.0"
+    mjml-preset-core "4.18.0"
+    mjml-validator "4.18.0"
+
 mkdirp-promise@^5.0.1:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/mkdirp-promise/-/mkdirp-promise-5.0.1.tgz#e9b8f68e552c68a9c1713b84883f7a1dd039b8a1"
